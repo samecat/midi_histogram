@@ -1,0 +1,10 @@
+[package]
+name = "midi_histogram"
+version = "0.1.0"
+authors = ["samecat <gz@samecat.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+midly = "0.5.2"
